@@ -2,7 +2,11 @@
 
 一个用于 Koishi 的系统状态卡片生成插件。支持生成包含 CPU/RAM 使用率、时间、农历、一言等信息的精美卡片。
 
-##  功能特性
+<div align="center">
+  <img src="example.png" width="600" alt="example" />
+</div>
+
+## ✨ 功能特性
 
 - **双渲染引擎支持**：
   -  **Puppeteer**：基于浏览器渲染，支持高级 CSS 特性（如毛玻璃特效）。
