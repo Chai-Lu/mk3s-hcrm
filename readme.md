@@ -6,7 +6,7 @@
   <img src="example.png" width="600" alt="example" />
 </div>
 
-## ✨ 功能特性
+##  功能特性
 
 - **双渲染引擎支持**：
   -  **Puppeteer**：基于浏览器渲染，支持高级 CSS 特性（如毛玻璃特效）。
